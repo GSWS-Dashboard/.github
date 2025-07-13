@@ -24,3 +24,14 @@ To use the GSWS Dashboard, follow the given simple steps:
 
 The GSWS Dashboard offers many tools to make work easier here are main features: 
 
+| Features | Description | Access now |
+| -------- | ------------ | ---------- |
+| Scheme Tracking | Monitor schemes like, Annadhatha sukhibhava, farmer assistance schemes, Talliki vandananam, and much more | LINK |
+| Attendance Reports | Check day wise attendance for GSWS staff and volunteers. | ACCESS NOW |
+| Survey Dashboards  | View survey reports like household mapping, fever survey, and caste surveys. | LINK | 
+| Grievance tracking | Track citizen grievances and their resolution status. | LINK | 
+| Real time tracking | Get instant tracking on payments, applications, and scheme progress details | ACCESS NOW |
+| Mobile App integration | Access Dashboards via GSWS mobile appls for your convenience. | LINK |
+
+---------
+
