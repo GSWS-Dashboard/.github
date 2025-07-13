@@ -30,7 +30,7 @@ The GSWS Dashboard offers many tools to make work easier here are main features:
 | Features | Description | Access now |
 | -------- | ------------ | ---------- |
 | Scheme Tracking | Monitor schemes like, Annadhatha sukhibhava, farmer assistance schemes, Talliki vandananam, and much more | LINK |
-| Attendance Reports | Check day wise attendance for GSWS staff and volunteers. | ACCESS NOW |
+| Attendance Reports | Check day wise attendance for GSWS staff and volunteers. | [ACCESS NOW](https://gramawardsachivalayam.ap.gov.in/GSWSDASHBOARD/#!/DashBoardReports) |
 | Survey Dashboards  | View survey reports like household mapping, fever survey, and caste surveys. | LINK | 
 | Grievance tracking | Track citizen grievances and their resolution status. | LINK | 
 | Real time tracking | Get instant tracking on payments, applications, and scheme progress details | ACCESS NOW |
@@ -38,3 +38,40 @@ The GSWS Dashboard offers many tools to make work easier here are main features:
 
 ---------
 
+## Popular GSWS DASHBOARDS and their uses: 
+
+Here are some list of popular GSWS Dashboards avaliable with ap.gov.in Grama ward sachivalayam online:
+
+* Track latest updates about loans and small business disbursements application status online
+* Monitor all EKYC of citizens enrolled with scemes
+* Arogra sri Dashboard: Provides latest updates on health card distrubtion and services.
+* Household mapping dashboard: (Grama ward sachivalayam) Tracks household data for various government programs and schemes.
+
+## How to use GSWS Dashboard Most Effectively:
+
+To make the most of the GSWS Dashboard:
+
+* Regularly check updateS: New dashboards for government schems are added and updated frequently.
+* USE filters: Most dashboars allow filtering by district and wards, clusters with volunteer for specific data.
+* Download Reports from dashboard: Export data for offline use or sharing with your Team.
+* Share feedback: Report the issues via "request tracking tool" on the GSWS Dashboard after loggin in.
+
+## Faq's About GSWS Dashboard :
+
+Q: Who can access the GSWS Dashboard?
+A: GSWS staff, volunteers, and coordinators can access it with valid login credentials. Some dashboards are also avaliable for public use.
+
+Q: What if i can't log in?
+A: Contact your district coordinator or assistant coordinator for login support. Ensure your're using the  correct format usernanem and pass.
+
+Q: How often are Dashboars updated ?
+A: Dashboars are updated in real-time or daily, depending on the scheme or report.
+
+Q: Can citizens check scheme status on the GSWS Dashboard?
+A: Yes, Some dashboards, like payment status or scheme eligibility, are accessible to citizens via the GSWS or AP SEVA portals.
+
+------
+
+THE GSWS Dashboards is a powerful tool for tracking government schemes, attendance, and surveys in andhrapradesh. By logging into the official GSWS website or mobile app, users can access real time data and manage tasks more efficently. Regularly check for updates and contact coordinators for support, to make the most of this platfrom. 
+
+Here is the contact email of GSWS: info@gsws.ap.gov.in 
