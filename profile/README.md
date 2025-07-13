@@ -10,6 +10,8 @@ for future reference. We have also included its key features in very simple term
 
 The GSWS Dashboard is a digital plafrom for Andhra pradesh grama ward sachivalayam system. This portal helps user to check status of government schems, track application status, and view reports like attendance, gov surveys, and payments. It is completely designed for secretariat employees, volunteers, and citizens to stay updated on state welfare programs and services.
 
+<h1>GSWS DASHBOARD</h1>
+
 ### How to access the GSWS Dashboard
 
 To use the GSWS Dashboard, follow the given simple steps:
