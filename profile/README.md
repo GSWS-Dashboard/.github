@@ -2,7 +2,8 @@ The GSWS Dashboard is an online tool used in AndhraPradesh to help grama ward sa
 it provides most update info and real-time updates on schems like Annadhata sukhibhava status, pension schemes, and all governemnt schemes. This page gives clear access to GSWS Dashboard, soo please bookmark it
 for future reference. We have also included its key features in very simple terms.
 
-<img width="1211" height="95" alt="image" src="https://github.com/user-attachments/assets/3cc6e5d0-66fc-475f-b1d5-2ae93af5671b" />
+<img width="1211" height="95" alt="GSWS Dashboard" src="https://github.com/user-attachments/assets/3cc6e5d0-66fc-475f-b1d5-2ae93af5671b" />
+<center>**image source: gramawardsachivalayam.ap.gov.in** </center>
 
 
 ## GSWS Dashboard - In detailed
