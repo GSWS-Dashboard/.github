@@ -76,3 +76,6 @@ A: Yes, Some dashboards, like payment status or scheme eligibility, are accessib
 THE GSWS Dashboards is a powerful tool for tracking government schemes, attendance, and surveys in andhrapradesh. By logging into the official GSWS website or mobile app, users can access real time data and manage tasks more efficently. Regularly check for updates and contact coordinators for support, to make the most of this platfrom. 
 
 Here is the contact email of GSWS: info@gsws.ap.gov.in 
+
+---
+Latest update (23-07-2025): we have also provided [talliki vandanam status](https://github.com/Talliki-Vandanam-Status), as per GSWS please access it from here, this page is completely updated for Grama ward sachivalayam uses, feel free to contact if you face any issues with gsws. 
