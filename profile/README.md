@@ -78,4 +78,5 @@ THE GSWS Dashboards is a powerful tool for tracking government schemes, attendan
 Here is the contact email of GSWS: info@gsws.ap.gov.in 
 
 ---
-Latest update (23-07-2025): we have also provided [talliki vandanam status](https://github.com/Talliki-Vandanam-Status), as per GSWS please access it from here, this page is completely updated for Grama ward sachivalayam uses, feel free to contact if you face any issues with gsws. 
+Latest update (29-07-2025): we have also provided [talliki vandanam status](https://github.com/Talliki-Vandanam-Status), as per GSWS please access it from here, this page is completely updated for Grama ward sachivalayam uses, feel free to contact if you face any issues with gsws. 
+NEW UPDATE: now special tools are working related to GSWS dashboard, Citizens of ap can now access without logging into GSWS portal. 
