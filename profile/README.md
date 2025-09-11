@@ -60,7 +60,7 @@ To make the most of the GSWS Dashboard:
 ## Faq's About GSWS Dashboard :
 
 Q: Who can access the GSWS Dashboard?
-A: GSWS staff, volunteers, and coordinators can access it with valid login credentials. Some dashboards are also avaliable for public use.
+A: GSWS staff, volunteers[,](https://s3.ap-south-1.amazonaws.com/ibomma-telugu-movies/Ibomma+Telugu+Movies+New+2025+Download+Alternatives+%E2%80%93+Full+HD+1080p+720p+Streaming+Updates+LIVE.pdf) and coordinators can access it with valid login credentials. Some dashboards are also avaliable for public use.
 
 Q: What if i can't log in?
 A: Contact your district coordinator or assistant coordinator for login support. Ensure your're using the  correct format usernanem and pass.
