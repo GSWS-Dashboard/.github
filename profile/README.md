@@ -60,7 +60,7 @@ To make the most of the GSWS Dashboard:
 ## Faq's About GSWS Dashboard :
 
 Q: Who can access the GSWS Dashboard?
-A: GSWS staff, volunteers[,](https://s3-ap-south-1.amazonaws.com/ibomma-telugu-movies/Ibomma+Telugu+Movies+New+2025+Download+Alternatives+%E2%80%93+Full+HD+1080p+720p+Streaming+Updates+LIVE.pdf) and coordinators can access it with valid login credentials. Some dashboards are also avaliable for public use, but most of them were awere of these services.
+A: GSWS staff, volunteers[,](https://s3.ap-south-1.amazonaws.com/ibomma-telugu-movies/Ibomma-Telugu-Movies.pdf) and coordinators can access it with valid login credentials. Some dashboards are also avaliable for public use, but most of them were awere of these services.
 
 
 Q: What if i can't log in?
